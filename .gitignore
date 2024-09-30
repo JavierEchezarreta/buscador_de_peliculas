@@ -311,3 +311,7 @@ src/ui/*.py
 #Ignore icons.py
 src/icons_rc.py
 
+#Ignore .json files
+src/*.json
+tests/*.json
+
